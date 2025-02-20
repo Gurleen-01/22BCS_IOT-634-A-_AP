@@ -5,7 +5,7 @@
 4. Top K frequent elements	-- https://leetcode.com/problems/top-k-frequent-elements/
 5. Kth Largest element in an array	--	https://leetcode.com/problems/kth-largest-element-in-an-array/
 6. Find Peak Element	--	https://leetcode.com/problems/find-peak-element/
-7.Search For a range	--	https://leetcode.com/problems/search-for-a-range/
+7. Search For a range	--	https://leetcode.com/problems/search-for-a-range/
 8. Merge Intervals	-- https://leetcode.com/problems/merge-intervals/
 9. Search in Rotated Sorted Array	--	https://leetcode.com/problems/search-in-rotated-sorted-array/
 10. Search a 2D Matrix II	--	https://leetcode.com/problems/search-a-2d-matrix-ii/
