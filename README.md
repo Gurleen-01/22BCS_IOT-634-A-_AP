@@ -9,6 +9,6 @@
 8. Merge Intervals	-- https://leetcode.com/problems/merge-intervals/
 9. Search in Rotated Sorted Array	--	https://leetcode.com/problems/search-in-rotated-sorted-array/
 10. Search a 2D Matrix II	--	https://leetcode.com/problems/search-a-2d-matrix-ii/
-11.Wiggle Sort 2	--	https://leetcode.com/problems/wiggle-sort-2/
-12.Kth smallest element in a sorted matrix	--	https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/
+11. Wiggle Sort 2	--	https://leetcode.com/problems/wiggle-sort-2/
+12. Kth smallest element in a sorted matrix	--	https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/
 13. Median of Two Sorted Arrays	--	https://leetcode.com/problems/median-of-two-sorted-arrays/
