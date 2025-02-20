@@ -1,6 +1,6 @@
-# 22BCS_IOT-634-A-_AP
-Merge Sorted Array---https://leetcode.com/problems/merge-sorted-array/
-First Bad Version	-- https://leetcode.com/problems/first-bad-version/
+# 22BCS_IOT-634-A-_AP     SEARCHING & SORTING EXP-5
+1. Merge Sorted Array---https://leetcode.com/problems/merge-sorted-array/
+2. First Bad Version	-- https://leetcode.com/problems/first-bad-version/
 Sort Colors	--	https://leetcode.com/problems/sort-colors/
 Top K frequent elements	-- https://leetcode.com/problems/top-k-frequent-elements/
 Kth Largest element in an array	--	https://leetcode.com/problems/kth-largest-element-in-an-array/
